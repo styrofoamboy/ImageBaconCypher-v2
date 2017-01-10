@@ -8,3 +8,5 @@ This will requeire the following libraries from the RainstormStudios repo and ar
 * RainstormStudios
 * RainstormStudios.Controls
 * RainstormStudios.Drawing
+
+https://github.com/styrofoamboy/RainstormStudios
